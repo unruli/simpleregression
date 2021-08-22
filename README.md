@@ -13,3 +13,8 @@ where y is the dependentt variable
 x is the independent variable 
 
 and b is the co-eefficient
+
+this feat is easilly accomplished by training the model with sklearn.linearreggression
+make a value called regressor and train on the train sets for both the dependent and independent variableer 
+
+after training you can then makeyour predition 
